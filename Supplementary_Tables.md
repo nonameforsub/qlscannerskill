@@ -118,8 +118,8 @@ The table below presents the complete, per-vulnerability detection matrix for th
 | Path Traversal / File Write | ✓ | ✓ | ✓ | ✓ | ✗ | N/R | ✓ |
 | Weak Password Protection | ✗ | ✗ | ✗ | ✓ | ✗ | N/R | ✓ |
 | **Summary** | | | | | | | |
-| **Vulnerabilities found** | 7/21 | 8/21 | 6/21 | **16/21** | 1/17 | 0/17† | **13/17** |
-| **Recall** | 33.3% | 38.1% | 28.6% | **76.2%** | 5.9% | 0.0%† | **76.5%** |
+| **Vulnerabilities found** | 7/21 | 8/21 | 6/21 | **16/21** | 1/17 | ---† | **13/17** |
+| **Recall** | 33.3% | 38.1% | 28.6% | **76.2%** | 5.9% | ---† | **76.5%** |
 | **Performance Metrics** | | | | | | | |
 | Wall-clock time | 3,086 s | 4,777 s | 2,770 s | **768 s** | 1,367 s | N/R | **537 s** |
 | LLM calls | N/A | 218 | 205 | **68** | N/A | N/R | **77** |
